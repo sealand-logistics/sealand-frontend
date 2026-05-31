@@ -15,6 +15,7 @@ import Certifications from './pages/Certifications';
 import Contact from './pages/Contact';
 import Locations from './pages/Locations';
 import STC from './pages/STC';
+import TrademarkLegalNotice from './pages/TrademarkLegalNotice';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/locations" element={<Locations />} />
             <Route path="/stc" element={<STC />} />
+            <Route path="/trademark-legal-notice" element={<TrademarkLegalNotice />} />
           </Routes>
         </main>
         <CTASection />

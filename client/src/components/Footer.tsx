@@ -25,6 +25,9 @@ const Footer = () => {
               Your trusted partner for end-to-end global freight, transportation,
               and supply chain solutions across 180+ countries.
             </p>
+            <p className="text-[10px] text-gray-400 mt-4 max-w-xs leading-normal">
+              SEALAND LOGISTICS® is a registered trademark of Sealand Logistics India Services Private Limited (CIN: U63090WB2005PTC103200) and Sealand Logistics & Shipping Services Private Limited (CIN: U63000WB2017PTC219100), India. All rights reserved.
+            </p>
 
             <div className="flex gap-4 mt-6 text-lg">
               <button
@@ -83,6 +86,11 @@ const Footer = () => {
               <li>
                 <Link to="/stc" className="hover:text-gray-100">
                   Terms & Conditions
+                </Link>
+              </li>
+              <li>
+                <Link to="/trademark-legal-notice" className="hover:text-gray-100">
+                  Trademark Legal Notice
                 </Link>
               </li>
             </ul>
@@ -147,7 +155,7 @@ const Footer = () => {
         <hr className="border-white/20 mt-10 mb-4" />
 
         <p className="text-center text-xs text-gray-300">
-          © 2025 Sealand Logistics. All Rights Reserved.
+          © 2026 Sealand Logistics. All Rights Reserved.
         </p>
       </div>
     </footer>

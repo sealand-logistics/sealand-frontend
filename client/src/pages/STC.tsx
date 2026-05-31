@@ -20,7 +20,7 @@ const STC = () => {
                         Standard Terms & Conditions
                     </h1>
                     <p className="text-[#000040] font-lato mt-4 text-center uppercase tracking-wider font-bold text-sm md:text-base">
-                        (APPLICABLE WEF 1st April 2025)
+                        (APPLICABLE WEF 1st April 2026)
                     </p>
                 </div>
             </div>
@@ -357,7 +357,7 @@ const STC = () => {
 
                 <div className="mt-20 pt-10 border-t border-gray-100 text-center">
                     <p className="text-gray-400 text-[10px] md:text-xs">
-                        © 2025 Sealand Logistics Group. All Rights Reserved.
+                        © 2026 Sealand Logistics Group. All Rights Reserved.
                     </p>
                 </div>
             </div>
